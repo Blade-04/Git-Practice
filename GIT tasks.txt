@@ -1,0 +1,10 @@
+1. Create a repository
+2. Create a new branch (Main and develop) from command line and UI
+3. Clone the code.
+4. Push and pull the code from local to repository
+5. Making changes in the staging area
+6. Merge Develop branch into main branch
+7. Merge using Pull_request
+8. Fetch the updated information from remote repository
+9. Create a tag version
+10. Work with git rebase
